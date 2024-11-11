@@ -1,3 +1,22 @@
+# [2.0.0](https://github.com/dlepaux/test-auto-release/compare/v1.0.2...v2.0.0) (2024-11-11)
+
+
+### Bug Fixes
+
+* **commitlint:** allow longer commit message ([b150786](https://github.com/dlepaux/test-auto-release/commit/b1507866e02680f8b2e5f6c3a7d18e7e814c88d7))
+
+
+### Features
+
+* **husky:** add husky and commitlint ([0e274b0](https://github.com/dlepaux/test-auto-release/commit/0e274b013f5b3149944d2a1b8e767ab4307f6893))
+* **husky:** add husky and commitlint ([08260c2](https://github.com/dlepaux/test-auto-release/commit/08260c2dec17fd157c33870a1a277347a40b5f18))
+
+
+### BREAKING CHANGES
+
+* **husky:** new api
+* **husky:** new api
+
 ## [1.0.2](https://github.com/dlepaux/test-auto-release/compare/v1.0.1...v1.0.2) (2024-11-11)
 
 
