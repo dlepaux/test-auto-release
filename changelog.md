@@ -25,3 +25,17 @@
 * fix ([9adf86c](https://github.com/dlepaux/test-auto-release/commit/9adf86c61db0661c9e0e8f69d127813714d65f10))
 * **semantic-config:** fix ([29f5d4f](https://github.com/dlepaux/test-auto-release/commit/29f5d4f58785d89b8e30be7719ba67696268b4bb))
 * **setup:** fix setup and changelog file name ([a7037a3](https://github.com/dlepaux/test-auto-release/commit/a7037a3d68530aef1f740ad1af19b46b67469ec1))
+
+## [1.0.1](https://github.com/dlepaux/test-auto-release/compare/v1.0.0...v1.0.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* **semantic:** update pakcage version ([b7edb3b](https://github.com/dlepaux/test-auto-release/commit/b7edb3be9d77c75dfd00fa68e889ac01eb6ce646))
+
+# 1.0.0 (2024-11-11)
+
+
+### Bug Fixes
+
+* **documentation:** add doc :) ([ddcd207](https://github.com/dlepaux/test-auto-release/commit/ddcd207bc6879f8a93d91ffa2f391654bd313662))
